@@ -15,12 +15,6 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  
-	
-  <!-- 
-  <h3 align="center">InC</h3>
-  -->
-
   <p align="center">
     <h1 style="text-align:center">Emission Inventory Calculator for GCC Countries</h1>
   </p>
