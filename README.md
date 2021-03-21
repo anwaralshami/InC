@@ -66,7 +66,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2 id="about-the-project">About The Project<\h2>
 
 The increased levels of pollutants in the atmosphere are of growing concern due to their detrimental effect on human health, agriculture and natural ecosystems. Ecological Footprint can be a good indicator to understand the severity of air pollution problems faced by the Gulf Cooperation Council (GCC) countries. According to the WWF/Ecological Footprint report “Our Living Planet”, which covers 150 countries around the world, GCC countries rank high in the Total Ecological Footprint, with footprints ranging between 4.6 and 11.9 global ha/person compared to the world average Total Ecological Footprint (TEF) of 1.8 global ha/person ([Grooten & Almond, 2018]( https://www.worldwildlife.org/pages/living-planet-report-2018)). Action to limit air pollution is consistent with Sustainable Development Goals that states that air pollution, both ambient and household, increases the risk of cardiovascular and respiratory disease and, in 2016, led to some 7 million deaths worldwide ([WHO, 2016]( https://www.who.int/news-room/air-pollution)).
 
